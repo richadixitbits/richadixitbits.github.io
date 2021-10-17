@@ -22,18 +22,18 @@ A results-driven and self-motivated Database Engineer with over 7.8 years of exp
 </p>  
 
 <h2 align="Left">Work Experience</h2>
-<b>FEB 2014 – TILL PRESENT </b></br>
+<b>FEB 2014 – TILL PRESENT </b>
 SENIOR DATABASE ENGINEER, S&P GLOBAL – MARKET INTELLIGENCE
 
 <h2 align="Left">Education</h2>
 
-<b>JUNE 2014</b> </br>
+<b>JUNE 2014</b> 
 B. TECH COMPUTER SCIENCE AND ENGINEERING, JAYPEE UNIVERSITY OF INFORMATION TECHNOLOGY, NOIDA
 
-<b>MARCH 2009</b> </br>
+<b>MARCH 2009</b> 
 SENIOR SECONDARY SCHOOL (12TH), ST ANTHONY’S JUNIOR COLLEGE, AGRA
 </br> 
-<b>MARCH 2007</b> </br> 
+<b>MARCH 2007</b>  
 SECONDARY SCHOOL (10TH), ST ANTHONY’S JUNIOR COLLEGE, AGRA
 
 
