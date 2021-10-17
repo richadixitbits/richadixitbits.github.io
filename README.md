@@ -10,10 +10,11 @@
 </p>
 
 
-
+</br>
 Email: 2020MT93568@wilp.bits-pilani.ac.in
 
-
+</br>
+</br>
 
 <p align="center"> 
   <b>
@@ -22,20 +23,22 @@ A results-driven and self-motivated Database Engineer with over 7.8 years of exp
 </p>  
 
 <h2 align="Left">Work Experience</h2>
-<b>FEB 2014 – TILL PRESENT </b>
+<b>FEB 2014 – TILL PRESENT </b></br>
 SENIOR DATABASE ENGINEER, S&P GLOBAL – MARKET INTELLIGENCE
-
+</br>
+</br>
 <h2 align="Left">Education</h2>
 
-<b>JUNE 2014</b> 
+<b>JUNE 2014</b> </br>
 B. TECH COMPUTER SCIENCE AND ENGINEERING, JAYPEE UNIVERSITY OF INFORMATION TECHNOLOGY, NOIDA
-
-<b>MARCH 2009</b> 
+</br> 
+<b>MARCH 2009</b> </br>
 SENIOR SECONDARY SCHOOL (12TH), ST ANTHONY’S JUNIOR COLLEGE, AGRA
 </br> 
-<b>MARCH 2007</b>  
+<b>MARCH 2007</b> </br> 
 SECONDARY SCHOOL (10TH), ST ANTHONY’S JUNIOR COLLEGE, AGRA
-
+</br>
+</br>
 
 
 <h2 align="center">Technology Stack</h2>
@@ -49,7 +52,8 @@ SECONDARY SCHOOL (10TH), ST ANTHONY’S JUNIOR COLLEGE, AGRA
 <a href="https://www.elastic.co/products/elasticsearch" title="Elasticsearch"><img src="https://github.com/get-icon/geticon/raw/master/icons/elasticsearch.svg" alt="Elasticsearch" width="40" height="40"></a> 
  <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="40" height="40"></a> 
  </p>
-
+</br>
+</br>
 
 <p align="center">
 <h2 align="center">My GitHub Stats</h2>
@@ -61,6 +65,3 @@ SECONDARY SCHOOL (10TH), ST ANTHONY’S JUNIOR COLLEGE, AGRA
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richadixitbits)](https://git.io/streak-stats)
 
 </p>
-
-
-
