@@ -18,7 +18,7 @@ Email: 2020MT93568@wilp.bits-pilani.ac.in
 
 <p align="center"> 
   <b>
-A results-driven and self-motivated Database Architect with over 6.8 years of experience in Database Engineering, Development and Administration, possessing exceptional analytical and problem-solving skills, and the crucial ability to function well both independently and in fast-paced team environments
+A results-driven and self-motivated Database Engineer with over 7.8 years of experience in Database Engineering, Development and Administration, possessing exceptional analytical and problem-solving skills, and the crucial ability to function well both independently and in fast-paced team environments
   </b>  
 </p>  
 
